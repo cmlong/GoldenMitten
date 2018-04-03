@@ -1,0 +1,103 @@
+﻿Golden Mitten Award
+MI Worked All Grids, VHF+
+Sponsored by the Michigan VHF UHF Society
+
+
+Purpose
+Promote operation on VHF+ bands, introduce Maidenhead grid squares, encourage Elmering, and just plain have a good time.  
+
+
+The Michigan VHF-UHF Society (MIVUS) Golden Mitten Award is designed to draw on several areas of Ham Radio to encourage all hams, new and old, to expand their ham radio experience. The award encourages antenna construction, base, mobile, and portable operations, the grid square coordinate system, and "Elmering" of hams.
+
+
+This will be a challenging award to obtain since it requires the operator to work all grid squares in MI using VHF+ bands. In addition to introducing the Maidenhead grid square coordinate system (and tools for determining the coordinates), the award demonstrates just how far VHF+ signals can travel even using easy to build, inexpensive antennas.
+
+
+The award website (need a parking spot for this, also need to add links to antennas) includes plans for several inexpensive and easy to make antennas that greatly outperform the "rubber ducky" that comes with an HT and can even be used with that all band HF/VHF/UHF radio that just gets used on HF. One of the antennas, a 3 element tape measure beam is very portable, and has a deep null off its back side, which also makes it ideal for use in another area of Ham Radio, radio direction finding and "foxhunting".
+
+
+The Golden Mitten Award will be awarded to those hams who demonstrate they have worked all MI grid squares. Additionally, Achievement Awards will be awarded for notable accomplishments such as single band operations, power levels, single mode, etc. The Golden Mitten Award will consist of a certificate suitable for framing and recipient published on the award web site.
+
+
+
+
+________________
+
+
+Rules 
+
+
+General Rules
+1. Crossband QSOs do not count.
+2. Aeronautical and maritime mobile contacts do not count.
+3. Use of satellites to originate and complete contacts is allowed.
+4. Any mode including but not limited to FM, SSB, CW and digital modes are allowed
+5. While no minimum distance is specified for contacts, equipment should be capable of communications at a range of at least 1 km.
+6. A station located precisely on a dividing line between grid squares must select only one as the location for exchange purposes.
+7. Operators may compete from anywhere in their home grid, in Michigan, and/or any other state.
+8. Retransmitting either or both stations, or use of repeater frequencies for purposes of completing a contact is not permitted.
+9. Use of repeater frequencies for soliciting and coordinating contacts is permitted.
+10. Above 300 GHz, contacts are permitted for award credit only between licensed amateurs using mono-chromatic signal sources (for example, laser and LED) and employing at least one stage of electronic detection on receive.  Laser usage is restricted to ANSI Z136 Class I, II, IIa, and IIIa (i.e.; output power is less than 5 mW).
+11. Use of established calling frequencies is allowed although QSY after contact is made is encouraged
+12. The total transmitter output power is 1500 Watts PEP.
+13. All operators, regardless of category, are permitted to use spotting assistance or nets including but not limited to DX-alerting nets, internet chat rooms, APRS and other packet, reverse beacon networks and repeaters to identify stations available for contacts and to announce (self-spot) their availability for contacts. Announcements shall be limited to call sign, location, band or frequency, mode and–if applicable–transmitting sequence and listening direction. These methods of spotting assistance may also be used to coordinate antenna peaking prior to initiation of the contact and to explain award rules, such as the exchange required, for those who need clarification. Such assistance may not be used to facilitate the completion of any contact once the contact has commenced. This means such assistance may not be used to convey receipt or non-receipt of any required element of a contact or to request a repeat of any required element of a contact.
+
+
+
+
+________________
+
+
+Award Rules
+1. Contacts on bands 50MHz and above are eligible for award
+2. Except for contacts facilitated by satellites (natural or artificial), contacts must occur directly between operators without the use of repeaters or other range extending technology except those already noted
+3. Exchange must include operator callsign and 4-digit grid square. Additional information is optional but encouraged such as station information (tx/rx, power out, antenna, antenna height, signal report, etc)
+4. Log entry must include both operator callsigns, 4-digit grid squares, time and date of contact, frequency, and mode. Additional information is encouraged as noted above
+   1. Format of log entry to be determined (i.e. cabrillo)
+1. Entries may be submitted to award coordinator at any time
+   1. Method of submission to be determined
+1. Award is completed once all grids have been worked and entries have been confirmed
+   1. Confirmation requires both operators submit entries
+   2. All grids required for this award are as listed:
+
+
+MI GRIDS (EN)
+46
+55, 56, 57, 58
+61, 62, 63, 64, 65, 66, 67
+71, 72, 73, 74, 75, 76
+81, 82, 83, 84, 85, 86
+
+
+See next page for grid map
+
+
+  
+
+
+
+________________
+
+
+Awards
+* Golden Mitten (no satellite) worked all grids
+* Golden Mitten (no satellite) with endorsement stickers for 6M, 2M, 220Mhz, 432Mhz, 902Mhz, 1296MHz, and so forth
+* Golden Mitten Satellite
+* Golden Mitten Rover for operating officially recognized VHF+ contests (i.e. ARRL VHF/UHF) in every Michigan Grid, any band. Endorsements award same as Golde Mitten (no satellite)
+
+
+Optional - Award Achievements
+Award Achievements will be awarded for the following:
+* Worked all grids - QRP (<=5W)
+* Worked all grids - Nominal (<=100W)
+* Worked all grids - High (>100W)
+* Worked all grids - single mode, analog
+* Worked all grids - single mode, digital
+Combinations consisting of 1 each of band, power, and mode will also be considered achievements, for example Worked all grids - 50MHz, QRP, single mode (SSB).
+
+
+Version History
+Version 1 - Initial version
+Version 1.1 - General Rule 10 changed contest credit to award credit. General Rule 12 removed wording related to international power limits. Added grid square map from Roger Cox, W8IO
+Version 1.1
+Date: JAN-2017
